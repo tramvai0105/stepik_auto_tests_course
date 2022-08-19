@@ -1,0 +1,23 @@
+1660913374934	geckodriver	INFO	Listening on 127.0.0.1:52136
+1660913378029	mozrunner::runner	INFO	Running command: "C:\\ПО\\firefox.exe" "--marionette" "--remote-debugging-port" "52137" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\forth\\AppData\\Local\\Temp\\rust_mozprofilePKSPFs"
+1660913378715	Marionette	INFO	Marionette enabled
+1660913378724	Marionette	INFO	Listening on port 52150
+WebDriver BiDi listening on ws://localhost:52137
+Read port: 52150
+1660913378985	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\forth\\AppData\\Local\\Temp\\rust_mozprofilePKSPFs\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:52137/devtools/browser/39bbe9c7-fd30-4db5-98df-aae7af3af7ba
+JavaScript warning: https://stepik.azureedge.net/static/frontend-build/vendor.js?v=1660299070, line 6289: unreachable code after return statement
+1660913385656	Marionette	INFO	Stopped listening on port 52150
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+1660914087987	geckodriver	INFO	Listening on 127.0.0.1:53095
+1660914091054	mozrunner::runner	INFO	Running command: "C:\\ПО\\firefox.exe" "--marionette" "--remote-debugging-port" "53096" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\forth\\AppData\\Local\\Temp\\rust_mozprofilePxeUlx"
+1660914091704	Marionette	INFO	Marionette enabled
+1660914091712	Marionette	INFO	Listening on port 53109
+Read port: 53109
+WebDriver BiDi listening on ws://localhost:53096
+1660914091907	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\forth\\AppData\\Local\\Temp\\rust_mozprofilePxeUlx\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:53096/devtools/browser/23421732-4652-4322-8802-a5f486343057
+1660914094598	Marionette	INFO	Stopped listening on port 53109
+[Parent 17676, IPC I/O Parent] WARNING: file /builds/worker/checkouts/gecko/ipc/chromium/src/base/process_util_win.cc:167
